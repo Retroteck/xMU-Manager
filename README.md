@@ -15,7 +15,7 @@ An app for modded original Xbox consoles that moves saves between the hard disk 
 - **Fix saves**: repairs locked saves on the hard disk that were signed on another console.
 - **Everything is backed up** to `E:\xMU\Backup` before it's replaced or deleted, and you can restore backups from the app.
 - **Switch xMU cards and modes from the controller.** The xMU goes back to its previous mode when you exit.
-- **Install panel (WHITE):** installs the app to `E:\Apps` and adds it to UnleashX. It also installs the XBMC4Gamers "Now Playing" scripts.
+- **Install panel (WHITE):** installs the app to `E:\Apps` and adds it to UnleashX. It also installs the XBMC4Gamers "Now Playing" scripts (VERY early beta).
 
 ## Moving a Dead or Alive Ultimate profile
 
