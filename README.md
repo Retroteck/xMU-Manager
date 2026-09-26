@@ -25,8 +25,6 @@ An app for modded original Xbox consoles that moves saves between the hard disk 
 | ![Replace a save? Hold A](screenshots/04_import_confirm.png) | ![Copying to hard disk](screenshots/05_importing.png) |
 | ![Copied, signed for this Xbox](screenshots/06_imported.png) | ![Memory unit card picker](screenshots/07_card_picker.png) |
 
-*The screenshots are the app's real interface, rendered on a PC.*
-
 ## What you need
 
 - An **xMU** on **firmware 1.6.0** or newer. The `.uf2` files for RP2040 and RP2350 boards are in the release.
