@@ -35,7 +35,7 @@ An app for modded original Xbox consoles that moves saves between the hard disk 
 
 ## Install
 
-1. Flash the `.uf2` for your board from the release's `firmware` folder. Check the version under *Hold Right Button → Settings → About → Version*.
+1. Flash the `.uf2` for your xMU from the release's `firmware` folder. Check the version under *Hold Right Button → Settings → About → Version*.
 2. Copy the `xMU Manager` folder to your Xbox, for example `E:\Apps\xMU Manager\`.
 3. Plug the xMU into a controller and start xMU Manager from your dashboard. You don't need to put the xMU in Xbox mode yourself. The app switches it and puts it back when you leave.
 
@@ -52,7 +52,7 @@ The full controller guide is in `README.txt` inside the release.
 | **BLACK** | fix saves | **B** | back |
 | **BACK** | exit to the dashboard | | |
 
-In-game reset (**L + R + BACK + START**) also works inside the app and exits cleanly.
+In-game reset (**L + R + BACK + START**) also works inside the app.
 
 ## Known limits (beta)
 
@@ -65,4 +65,4 @@ In-game reset (**L + R + BACK + START**) also works inside the app and exits cle
 
 Built with [nxdk](https://github.com/XboxDev/nxdk), SDL2, SDL_ttf and FreeType. The save signing layouts are based on feudalnate's Original Xbox Gamesave Resigners research. Font and library licenses are in the release's `licenses` folder.
 
-Not affiliated with or endorsed by Microsoft, Koei Tecmo, Team NINJA or any game publisher. Use at your own risk, and keep your backups.
+Not affiliated with or endorsed by Microsoft, Koei Tecmo, Team NINJA or any game publisher. Use at your own risk, and keep your backups safe.
