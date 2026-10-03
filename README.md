@@ -4,7 +4,7 @@ An app for modded original Xbox consoles that moves saves between the hard disk 
 
 **New: xMU Manager (PC)** for Windows manages the memory units on the xMU's card and unpacks your disc dumps onto the SD card, ready to install on the Xbox. [See below](#xmu-manager-pc).
 
-**[⬇ Download the latest release](https://github.com/Retroteck/xMU-Manager/releases/latest)**: xMU Manager 0.8.28 (Xbox) + xMU Manager (PC) 1.0 + xMU firmware 1.6.7
+**[⬇ Download the latest release](https://github.com/Retroteck/xMU-Manager/releases/latest)**: xMU Manager 0.8.31 (Xbox) + xMU Manager (PC) 1.0 + xMU firmware 1.6.7
 
 ![xMU Manager main menu](screenshots/01_main_menu.png)
 
@@ -21,7 +21,7 @@ An app for modded original Xbox consoles that moves saves between the hard disk 
 - **Fix saves**: repairs locked saves on the hard disk that were signed on another console.
 - **Everything is backed up** to `E:\xMU\Backup` before it's replaced or deleted, and you can restore backups from the app.
 - **Switch xMU cards and modes from the controller.** The xMU goes back to its previous mode when you exit.
-- **Install to dashboard:** installs the app to `E:\Apps` and adds it to UnleashX. It also installs the XBMC4Gamers "Now Playing" scripts (VERY early beta).
+- **Install to dashboard:** installs the app to `E:\Apps` and adds it to UnleashX.
 
 ## Moving a Dead or Alive Ultimate profile
 
@@ -77,7 +77,7 @@ In-game reset (**L + R + BACK + START**) also works inside the app.
 - Games: folders only on the SD card (xMU Manager (PC) unpacks ISOs to folders), SD card to hard disk only.
 - Only xMU memory units are supported, not official Microsoft MUs.
 - Title data (`E:\TDATA`) and downloadable content are listed but not copied, same as the Microsoft dashboard (Ninja Gaiden Black's system data, Dead or Alive 3's save and Steel Battalion's pilots are the exceptions).
-- XBMC4Gamers "Now Playing" is a VERY early beta and may not work on every setup yet.
+- XBMC4Gamers "Now Playing" is switched off for now while it's reworked. If an older version installed it, remove it from Install to dashboard (pick XBMC4Gamers, press Y).
 
 ## xMU Manager (PC)
 
